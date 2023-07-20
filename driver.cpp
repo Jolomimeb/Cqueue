@@ -1,4 +1,3 @@
-// CMSC 341 - Spring 2023 - Project 3
 #include "cqueue.h"
 #include <random>
 int priorityFn1(const Order &order);// works with a MAXHEAP
