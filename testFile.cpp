@@ -1,15 +1,3 @@
-/*****************************************
-** File:    mytest.cpp
-** Project: CMSC 341 Project 3, Spring 2023
-** Author:  Oritsejolomisan Mebaghanje
-** Date:    04/17/23
-** E-mail:  xz94254@umbc.edu
-**
-** This file contains the program for mytest.cpp.
-**
-**
-***********************************************/
-
 #include "cqueue.h"
 #include <random>
 int priorityFn1(const Order &order);// works with a MAXHEAP
