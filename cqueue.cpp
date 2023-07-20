@@ -1,15 +1,3 @@
-/*****************************************
-** File:    cqueue.cpp
-** Project: CMSC 341 Project 3, Spring 2023
-** Author:  Oritsejolomisan Mebaghanje
-** Date:    04/17/23
-** E-mail:  xz94254@umbc.edu
-**
-** This file contains the program for cqueue.cpp.
-**
-**
-***********************************************/
-
 #include "cqueue.h"
 CQueue::CQueue(prifn_t priFn, HEAPTYPE heapType, STRUCTURE structure){
     //initializes member variables
